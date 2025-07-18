@@ -2,6 +2,8 @@ pandas
 pytz
 mlflow==2.2.2
 notebook
+scipy
+threadpoolctl
 numpy
 scikit-learn
 matplotlib
