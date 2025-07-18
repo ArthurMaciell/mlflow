@@ -1,6 +1,29 @@
+#pandas
+#pytz
+#mlflow==2.2.2
+#notebook
+#scipy
+#threadpoolctl
+#numpy
+#scikit-learn
+#matplotlib
+#python-box==6.0.2
+#pyYAML
+#tqdm
+#ensure==1.0.2
+#joblib
+#types-PyYAML
+#Flask
+#Flask-Cors
+#beartype
+#-e .
+
+
+# requirements.txt
+mlflow==2.12.1
+pyarrow==14.0.2
 pandas
 pytz
-mlflow==2.2.2
 notebook
 scipy
 threadpoolctl
